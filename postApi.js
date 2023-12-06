@@ -1,10 +1,10 @@
 const { response } = require("express");
 
 const postData = {
-    nim: '123456',
+    nim: '123458',
     nama: 'John Doe',
-    gender: 'Male',
-    prodi: 'Computer Science',
+    gender: 'P',
+    prodi: 'TI',
     alamat: '123 Main Street'
 };
 
